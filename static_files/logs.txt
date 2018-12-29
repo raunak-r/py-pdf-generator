@@ -1,6 +1,0 @@
-name : name 2
-background_img : H:\BITS\CSE\Projects\for-github\Master\static_files\html-templates\background.png
-output_path : H:\BITS\CSE\Projects\for-github\Master\output.pdf
-Successfully configured Django Settings
-wkhtmltopdf configured
-Template and Context Loaded.

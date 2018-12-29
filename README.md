@@ -20,5 +20,8 @@ Tkinter Usage Implementation - https://sebsauvage.net/python/gui/#to_exe
 tkinter
 pdfkit
 Django
-Installation of wkhtmltox-0.12.5-1.msvc2015-win64 in BASE_DIR/static_files/wkhtmltox
+isntall wkhtmltox-0.12.5-1.msvc2015-win64 in BASE_DIR/static_files/wkhtmltox
+
+The requirements.txt file contains these which can be installed using:
+pip install -r requirements.txt
 ```

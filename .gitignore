@@ -1,5 +1,5 @@
 /static_files/wkhtmltox/*
-/static_file/logs.txt
+/static_files/logs.txt
 *.pwc
 *.pyc
 output.pdf
