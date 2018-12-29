@@ -1,0 +1,5 @@
+/static_files/wkhtmltox/*
+/static_file/logs.txt
+*.pwc
+*.pyc
+output.pdf
